@@ -10,3 +10,14 @@
 
 ## Completion Status
 - Usable: a complete, single-page static site layout is present, but content is placeholder and minimal.
+
+## Program Summary
+- Single-page static personal homepage in Japanese with Home, About, and Contact sections.
+- Uses a fixed header nav and fixed footer with basic layout styling in `styles.css`.
+
+## How to Use
+- Open `index.html` in a web browser. (Not verified)
+- Edit `index.html` and `styles.css` to update content and styling.
+
+## Completion Status
+- Usable: full page structure and styling exist, but the content and contact details are placeholders.
