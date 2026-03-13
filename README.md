@@ -21,3 +21,14 @@
 
 ## Completion Status
 - Usable: full page structure and styling exist, but the content and contact details are placeholders.
+
+## Program Summary
+- Single-page static personal site (Japanese) with Home, About, and Contact sections.
+- Pure HTML/CSS; no scripts or build tooling detected.
+
+## How to Use
+- Open `index.html` in a web browser. (Not verified)
+- Edit `index.html` and `styles.css` to update content and layout.
+
+## Completion Status
+- Usable: page structure and styling are complete, but content is minimal and placeholder.
