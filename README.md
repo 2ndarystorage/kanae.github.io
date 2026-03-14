@@ -43,3 +43,14 @@
 
 ## Completion Status
 - Usable: the layout and styling are complete for a basic static page, but content is placeholder and no deployment/build workflow is documented.
+
+## Program Summary
+- Single-page static homepage in Japanese with Home, About, and Contact sections.
+- Pure HTML/CSS; no scripts, build tools, or backend detected.
+
+## How to Use
+- Open `index.html` in a web browser. (Not verified)
+- Edit `index.html` and `styles.css` to update content and styling.
+
+## Completion Status
+- Usable: full page structure and styling exist, but the content and contact details are placeholders.
