@@ -23,6 +23,17 @@
 - Usable: full page structure and styling exist, but the content and contact details are placeholders.
 
 ## Program Summary
+- Single-page static homepage in Japanese with Home, About, and Contact sections.
+- Pure HTML/CSS with a fixed header and fixed footer; no scripts or build tooling detected.
+
+## How to Use
+- Open `index.html` in a web browser. (Not verified)
+- Edit `index.html` and `styles.css` to change content, links, and styling.
+
+## Completion Status
+- Usable: the page renders as a complete static layout, but the text and contact email are placeholders and no deployment workflow is documented.
+
+## Program Summary
 - Single-page static personal homepage in Japanese with Home, About, and Contact sections.
 - Pure HTML/CSS with fixed header navigation and fixed footer; no scripts or build tooling detected.
 
