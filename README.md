@@ -24,6 +24,17 @@
 
 ## Program Summary
 - Single-page static homepage in Japanese with Home, About, and Contact sections.
+- HTML/CSS only; fixed header navigation and fixed footer, no scripts or build tooling.
+
+## How to Use
+- Open `index.html` in a web browser. (Not verified)
+- Edit `index.html` and `styles.css` to customize text, links, and styling.
+
+## Completion Status
+- Usable: complete static layout and styling exist, but the content and email are placeholders and no deployment workflow is documented.
+
+## Program Summary
+- Single-page static homepage in Japanese with Home, About, and Contact sections.
 - Pure HTML/CSS with a fixed header and fixed footer; no scripts or build tooling detected.
 
 ## How to Use
